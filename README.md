@@ -1,3 +1,11 @@
+<h1 align="center">
+	📚 libft
+</h1>
+
+<p align="center">
+	<b><i>"Your very first own library"</i></b><br>
+</p>
+
 <p align="center">
 	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
 	<img src="https://img.shields.io/badge/score-125%20%2F%20100-success?color=%2312bab9&style=flat-square"/>
